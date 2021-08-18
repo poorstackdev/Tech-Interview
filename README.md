@@ -5,3 +5,7 @@
 
 ### 자료구조
 [배열(Array)과 리스트(LinkedList)의 차이](question/배열과리스트의차이.md)
+
+
+### Web application 공통
+[WAS와 WebServer의 차이](./question/was와ws의차이.md)
