@@ -4,8 +4,8 @@
 > 이 리드미는 [라이센스](./LICENSE) 에 의거 리드미로 인한 피해는 온전히 사용자 책임임을 알려드립니다.
 
 ### 자료구조
-[배열(Array)과 리스트(LinkedList)의 차이](question/배열과리스트의차이.md)
+[배열(Array)과 리스트(LinkedList)의 차이](question/DataStructure/배열과리스트의차이.md)
 
 
 ### Web application 공통
-[WAS와 WebServer의 차이](./question/was와ws의차이.md)
+[WAS와 WebServer의 차이](./question/WebApplication/was와ws의차이.md)
