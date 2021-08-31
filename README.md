@@ -9,3 +9,6 @@
 
 ### Web application 공통
 [WAS와 WebServer의 차이](./question/WebApplication/was와ws의차이.md)
+
+### Spring
+[@Controller와 @RestController의 차이](./question/Spring/Controller와RestController의차이)
